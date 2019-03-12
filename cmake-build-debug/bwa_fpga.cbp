@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bwa_fpga"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bwa_fpga">
+				<Option output="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/bwa_fpga" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jie/learning_files/personal_project/bwa_fpga/include"/>
+					<Add directory="/home/jie/learning_files/personal_project/bwa_fpga/include/junction"/>
+					<Add directory="/home/jie/learning_files/personal_project/bwa_fpga/include/turf"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 bwa_fpga"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bwa_fpga/fast">
+				<Option output="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/bwa_fpga" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jie/learning_files/personal_project/bwa_fpga/include"/>
+					<Add directory="/home/jie/learning_files/personal_project/bwa_fpga/include/junction"/>
+					<Add directory="/home/jie/learning_files/personal_project/bwa_fpga/include/turf"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 bwa_fpga/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/ByteBuffer.cpp">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/QSufSort.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/QSufSort.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bamlite.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bamlite.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bntseq.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bntseq.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwa.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwa.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwa_mem_fpga.cpp">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwamem.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwamem.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwamem_extra.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwamem_pair.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwape.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwase.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwase.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwaseqio.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwashm.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwt.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwt.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwt_gen.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwt_lite.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwt_lite.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtaln.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtaln.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtgap.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtgap.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtindex.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtsw2_aux.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtsw2_chain.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtsw2_core.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtsw2_main.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/bwtsw2_pair.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/example.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/fastmap.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/fastmap_fpga.cpp">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/fastmap_fpga.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/fpga_sw.cpp">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/fpga_sw.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/is.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/kopen.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/kstring.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/kstring.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/ksw.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/ksw.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/kthread.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/main.cpp">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/malloc_wrap.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/malloc_wrap.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/maxk.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/pemerge.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/rle.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/rle.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/rope.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/rope.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/utils.c">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/utils.h">
+			<Option target="bwa_fpga"/>
+		</Unit>
+		<Unit filename="/home/jie/learning_files/personal_project/bwa_fpga/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

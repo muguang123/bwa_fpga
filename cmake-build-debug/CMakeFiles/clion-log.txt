@@ -1,0 +1,4 @@
+/home/jie/Downloads/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jie/learning_files/personal_project/bwa_fpga
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug

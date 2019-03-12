@@ -1,0 +1,3 @@
+/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jie/learning_files/personal_project/bwa_fpga/cmake-build-debug/CMakeFiles/bwa_fpga.dir
